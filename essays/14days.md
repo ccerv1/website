@@ -8,7 +8,7 @@
 >
 This page contains a two-week immersion program for people who are entirely new to web3. It consists of 14 discrete activities. Each activity should take less than an hour to complete. I recommend allocating about ~$300~ ~$200~ $100 (0.1 ETH) for learning purposes, though you certainly won’t need to spend all of it.
 
-I’m trying to add a new lesson every couple of days and am currently at `13`/14 lessons. Please follow along and send to a friend!
+I recommend following the course in sequence, since concepts build progressively on top of each other. I’ve tried my best to provide detailed explanations and screenshots for each lesson, but if you get lost and can’t find an answer to your question through internet searches, feel free to send me a [direct message](https://twitter.com/carl_cervone) and I’ll do my best to respond.
 
 ## Itinerary
 
@@ -38,5 +38,18 @@ I’m trying to add a new lesson every couple of days and am currently at `13`/1
 
 13. [Fund public goods with Gitcoin Grants](https://mirror.xyz/cerv1.eth/Iq-D7b5vmosG9teG_4-6n_zhSr2zgpfh0Z9FFUc14hI)
 
-14. TBD
+14. [Send money to a friend](https://mirror.xyz/cerv1.eth/4qx6a2XU1MWZIB0-z2NYwGwKM0F2F-I_Y0rSf6WOLmA)
 
+## Mindset
+
+None of this is investment advice.
+
+Go through this course with a learning mindset. View what you are putting in as a sunk cost, even though you should still have most of your net worth (in Ethereum) intact by the end.
+
+In my case, my net worth at the end of the course was about 0.06 ETH (about $60 at July 2022 prices). A little over 0.03 ETH was spent on “gas” (the cost of making transactions on the blockchain).
+
+With the remainder, I purchased a domain name (Day 4), bought some carbon credits (Day 8), made a donation in support of public goods (Day 13), and sent money to a friend (Day 14). I also did a bunch of things for free, like collecting a badge from the Proof of Attendance Protocol (Day 5), voting on a governance proposal (Day 9), and building a web3 resume (Day 12).
+
+I’ve tried to cover a broad spectrum of use cases and at the same time pique your interest into some of new worlds that web3 is opening up.
+
+Enjoy the journey.

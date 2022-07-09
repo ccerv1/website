@@ -42,6 +42,9 @@ All this inspired a quick rework of the fourfold model to include the anti-rival
 
 ![Sixfold model of goods](public/images/expanded-model.png)
 
+Divya Siddharth gave an extremely compelling [talk](https://www.youtube.com/watch?v=jT3riInwd5c) challenging us to view each of these elements not as boxes but as a spectrum. She remarked that some exclusion is often necessary but we have historically erred on the side of excluding too much, reducing the potential positive returns of a network for its users.
+
+
 ## 2. Impact certificates are a necessary primitive
 
 In Juan Benet's [keynote](https://youtu.be/kGs3IdHj5_4?t=3610), he sets a stretch goal for the sector of launching 3+ impact markets, with >$50M in value, over the year ahead.
