@@ -14,6 +14,8 @@ In July, I started contributing afterhours to Gitcoin's Fraud Detection & Defens
 
 [Here is a write-up](public/images/Towards_a_Pluralism_Passport_Built_from_DeSoc_Legos.pdf) of the findings so far. It's a lot of slides, though it's full of colorful dataviz, so you can flick through them pretty fast.
 
+I've also pushed a public version of the analysis to Gitcoin's FDD repo, availabe [here](https://github.com/Fraud-Detection-and-Defense/gr14-onchain-trustscore-analysis).
+
 ---
 
 If you're interested in conducting your own analysis, here are the APIs and some starter queries.
