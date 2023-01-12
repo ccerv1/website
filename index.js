@@ -70,8 +70,8 @@ const feed = new Feed({
   description: "Writing",
   id: "https://carlcervone.com",
   link: "https://carlcervone.com",
-  image: "../public/images/carl-photo-cropped-lowres.jpg",
-  favicon: "../public/images/carl-photo-cropped-lowres.jpg",
+  image: "../public/images/carl_profile-clean-cropped-lowres-blackbg.png",
+  favicon: "../public/images/carl_profile-clean-cropped-lowres-blackbg.png",
   copyright: "All rights reserved 2022, Carl Cervone",
   generator: "carlcervone.com",
   feedLinks: {
