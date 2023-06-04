@@ -41,9 +41,6 @@ My father said no, that he had not done this at all. The high-school principal s
 In my fifth year in high school I had an introduction to analytic geometry, a very serious course in trigonometry, both plane and spherical, as well as a good deal of algebra and even a little bit of solid geometry. So I had a great deal more than students seem to get nowadays, even in Canada.
 
 
-# 
-
-
 ## University Years: 1923 - 1928
 
 When I entered the university I enrolled in the honors course in mathematics and physics. This was a sort of basic program that branched in various ways later on, so there were about five or six different end possibilities. In my first year at the university I had about three courses in mathematics that went throughout the year, as well as courses in physics and chemistry. One of the mathematics courses was a course in conic sections which I had from someone who is quite well known in the mathematics world, John L. Synge of Dublin. He gave a very rigorous course following an old British classic book, C. Smith, _Conic Sections_. This was not just a book in analytic geometry, but also an introductory book to invariance and things that are now a part of...
@@ -83,9 +80,6 @@ Well, I spent several weeks talking to all the people I could in mathematics and
 Most of the physicists there were experimental, and, you know, they would talk about magnetism in terms of a lot of little magnets that were in the middle of a big magnet. It was a very mechanistic view that they still had towards physics. And somehow or other this didn't satisfy me. I felt that they were not coming to grips with their subject. It was a descriptive rather than an analytical approach. Of course I was right, but I was very naive at the time. So I told people at the time that the reason I chose mathematics over physics was simply that I liked the mathematicians better than the physicists. So in my third and fourth years I dropped physics and concentrated on mathematics.
 
 In my third year I had a very good course in differential geometry out of Eisenhart's book and a course in projective geometry and a course in differential equations. I had a very eminent man teaching me differential equations, J. C. Fields, after whom the Fields Medals were named when they were established by the International Mathematical Congress. But he was ill at that time and died shortly afterwards. He wasn't feeling well enough to do anything except go through the motions of teaching the differential equations course. Then in my fourth year I had, for some reason I don't know, two courses in complex variables. One entirely from the Weierstrass point of view, the power-series point of view, and the other pretty much from the Riemann mapping point of view.
-
-
-# 
 
 
 ## Graduate Studies: 1928 - 1929
@@ -208,8 +202,6 @@ Incidentally I was supposed to have been his co-author in that book, but when we
 I mention this as one instance of where I had a specific goal and didn't know how to accomplish it and spent many years of fruitless effort before I finally saw the clue to the thing. A very, very simple clue. Once I thought of that then everything just went quickly. Later in a paper published in the Proceedings of the First Canadian Mathematical Congress I developed another lemma, for the square in this case, or in general for the n-cube, which I will be talking about because I feel that it is much more promising for computational purposes than the octahedron, because a cube is so much more regular thing to apply to analytical matters than the octahedron.
 
 
-# 
-
 
 ## Academic Life at Princeton in the 1930s
 
@@ -274,9 +266,6 @@ I took only enough of other things to pass the oral examination, which included 
 **Tucker:** Yes. A graduate student of his at that time and a very good friend of mine was Nathan Jacobson. Another friend of mine who did his PhD with Wedderburn is Merrill Flood. He hasn't gone on in algebra, though, the way Jacobson did.
 
 
-# 
-
-
 ## Joining the Princeton Faculty in 1933
 
 **Speed:** What happened to you after you finished your PhD? Was it soon afterwards that you were taken onto the faculty of Princeton University?
@@ -299,8 +288,6 @@ It was 1938 when I had my first real offer from Canada. Oh, at the University of
 
 At that point I was given a so-called tenured appointment as associate professor. I realized then that I was not going back to Canada. But until that point I had always thought that ultimately I was going back to Canada. So at that point I took out my first citizenship papers and set about becoming an American citizen. That was the story.
 
-
-# 
 
 
 # Part II
@@ -344,8 +331,6 @@ Well, the chief of Bu Ord (Bureau of Ordinance) in Washington saw a copy of Brow
 The Fire Control Research Project ended before the end of the war largely because radar had come in and displaced optical range finders. I then served as an assistant to S. S. Wilks in the statistical projects that he was supervising, partly at Princeton and partly at Columbia. In particular, I served as his deputy in dealing with a very small project at Columbia that included just two people, John Williams and Frederick Mosteller. I also served for a few months as a member of the von Neumann project at the Institute for Advanced Study, which was concerned with methods that might be useful for the high-speed computer that von Neumann was starting to develop. In this project I was working with Valentine Bargmann and Deane Montgomery.
 
 
-# 
-
 
 ## The Post-War Years: 1946 - 1949
 
@@ -358,9 +343,6 @@ Well, it was this rash remark of mine that led to a project being set up at Prin
 I got two graduate students to work with me in the summer of 1948. They had just completed one year of graduate study at Princeton. One was David Gale and the other Harold Kuhn. We were trying to find initially as precise a relation as we could between a matrix game and linear programs. To put it another way, we were trying to see what the connection was between linear programming and matrix games. Von Neumann had seen almost immediately when Dantzig told him about linear programming in November 1947 that a linear program resembled the problem faced by one of the two players in a matrix game. It was because of that that von Neumann foretold the duality of linear programming. By the end of the summer we had established pretty sharp connections between linear programs and matrix games and had spelled out the duality, that linear programs come in pairs, with each maximization program there was a companion minimization program.
 
 From that time on my own mathematical work has been largely in linear programming and related matters. David Gale did his dissertation with me in 1948-49 in linear programming and game theory. Others who were working with me as graduate students at that time were [Lloyd] Shapley, [John] Nash, [Donald] Gillies, and [Jim] Mayberry. In 1949 there was a conference at the University of Chicago arranged by Tjalling Koopmans. This is now regarded as the Zeroth International Symposium on Mathematical Programming. There was a very good attendance at that conference.
-
-
-# 
 
 
 ## Digression: Editing The Annals of Mathematics
@@ -392,9 +374,6 @@ The timing was fortuitous. We got ourselves going a little bit before World War 
 Indeed, one of them, Aurel Wintner of Johns Hopkins University, threatened to sue me and the Princeton University Press for not going ahead with the publication of a manuscript of his. In the end the Princeton University Press capitulated and agreed to take the same full responsibility for the Annals of Mathematics Studies that the Press took for the Princeton Mathematical Series. I feel a very strong interest in both of these series, but I must say that my favorite of the two is the Annals Studies: because it, at the time it was started, was quite unique. It was really the only means in the United States for the publication of long manuscripts which did not have a sufficient audience to justify commercial publication. In more recent years the commercial publishers have fallen over one another to publish such books, but at the time the Annals Studies was started there were no takers.
 
 
-# 
-
-
 ## Sabbatical at Stanford: 1949 - 1950
 
 Let me return to the story of my own research. I had broken this story off at the time in 1948 that, with Kuhn and Gale, I had started on linear programming and related topics. In 1949-50 I had my second sabbatical leave, which I spent at Stanford University. It was there that the paper on nonlinear programming, jointly with Kuhn, was initiated. It was also during that year at Stanford that I invented the "prisoner’s dilemma" as a cover story for a two-person non-zero-sum game in which the dichotomy between cooperative games and noncooperative games was made simply and sharply. And during that year I became involved as a consultant to the Rand Corporation.
@@ -422,9 +401,6 @@ So by correspondence between Stanford and Princeton, where Kuhn was finishing up
 Perhaps it might more properly have been called "Convex Programming", but we just picked the name non linear. It was in this way that what is now referred to as Kuhn-Tucker theory came about. Of course, we now know that it should be called Karush-Kuhn-Tucker theory because BilI Karush had anticipated what we did in 1950 in his master's thesis at Chicago about 1940. But his work was done in the context of the calculus of variations where it didn't attract attention, and our work was done in the context of mathematical programming where it was viewed as the first breakthrough from linear programming.
 
 
-# 
-
-
 ## Returning to Princeton: 1950 - 1963
 
 When I returned to Princeton from my leave of absence in 1950, there was great interest in linear programming and the theory of games, and the project supported by the Office of Naval Research under my direction had a great deal of activity. Many graduate students were participating in the weekly seminar we had, there were visitors, conferences were arranged from time to time, and there was a series of Annals Studies called "Contributions to the Theory of Games". The first of these, I think, was published in 1951, and this proved so successful that a second one appeared, I think, about 1954. The first two contributions to the "Contributions to the Theory of Games" were edited jointly by Harold Kuhn and myself. In 1956, Kuhn and I edited a volume on linear inequalities and related systems, which had sufficient impact in the world that [L. V. ] Kantorovich had that volume translated into Russian. This work on linear programming, linear inequalities, and game theory continued very actively at Princeton and still does. The Office of Naval Research stopped supporting the project about 1970, but after that the National Science Foundation picked up the project, and it is now directed by my colleague Harold Kuhn.
@@ -442,9 +418,6 @@ In 1960, I was asked by the nominating committee of the Mathematical Association
 So, the two years from '61 to '63 were very difficult years for me, but not so much because I was president of the Mathematical Association of America. There, the very able work of the Secretary of the Association, Henry Alder, made things fairly straightforward. Also, the Mathematical Association hired a part-time secretary to help me take care of the correspondence and the files. I had no such assistance from the Conference Board, which had a very restricted budget. We finally did get Baley Price to act as the executive officer in Washington for the Conference Board, but throughout the two years, it was a constant struggle to hold things together and try to accomplish something.
 
 In 1963, I was freed from the presidency of the Association—I continued for about six years as a member of the Board of Governors—and from the Conference Board. At the same time, I was freed of the chairmanship at Princeton. Not completely, though, because the new chairman in 1963 was Jack Milnor, and it didn't seem right to have such a brilliant research mathematician burdened with the day-to-day operations of the department. So, I continued as a co-chairman of the department with Milnor, and indeed later with Gilbert Hunt, the chairman who succeeded Jack Milnor.
-
-
-# 
 
 
 ## Further Travels and Appointments
