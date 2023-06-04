@@ -13,7 +13,7 @@ I created a digital version of a series of audio transcripts with the assistance
 - Albert Tucker: Career Part I
 - Albert Tucker: Career Part II
 
-The original recordings of these conversations are housed at Princeton's Seeley G. Mudd Manuscript Library, and scanned transcripts of all of the Oral History Project conservations are accessible via [this link](https://www.math.princeton.edu/about/oral-history) to the Princeton Department of Mathematics website.
+The original recordings of these conversations are housed at Princeton's Seeley G. Mudd Manuscript Library, and scanned transcripts of all of the Oral History Project conservations are accessible [here](https://www.math.princeton.edu/about/oral-history) on the Princeton Department of Mathematics website.
 
 Here is my digital transcript, available in PDF form [here](../public/images/Albert_Tucker_Oral_History.pdf), and in markdown below.
 
