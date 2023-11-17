@@ -1,5 +1,5 @@
 {
-  "title": "Reflections from my first days working on hypercerts",
+  "title": "Reflections From My First Days Working On Hypercerts",
   "date": "10/28/2022"
 }
 ---
